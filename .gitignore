@@ -31,6 +31,9 @@ local.properties
 *.ear
 *.db
 
+# Custom Files #
+config.properties
+
 #####################
 # Windows
 ######################
